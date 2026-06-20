@@ -1,7 +1,10 @@
 # Prerequisites — AI Workflow Training
 
+> **Tentative** — this list was drafted during initial plugin setup and has not yet been
+> fully validated against all exercises. A future `/ai-workflow-training:setup` skill will
+> verify and install these automatically; update this file as gaps are found.
+
 Everything a client needs installed before starting the training.
-A future `/ai-workflow-training:setup` skill will verify and install these automatically.
 
 ---
 
