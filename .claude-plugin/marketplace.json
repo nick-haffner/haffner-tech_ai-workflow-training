@@ -14,7 +14,13 @@
       "author": {
         "name": "Haffner Tech"
       },
-      "source": "./plugins/ai-workflow-training",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/nick-haffner/haffner-tech_ai-workflow-training.git",
+        "path": "plugins/ai-workflow-training",
+        "ref": "main",
+        "sha": "4679e5177ad438caaa8ba1b75c82b6f871cdae2f"
+      },
       "category": "productivity"
     }
   ]
