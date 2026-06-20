@@ -1,0 +1,150 @@
+{
+  "owner": { "name": "You", "email": "you@yourcompany.com" },
+  "generated_for": "Haffner Tech AI Workflow Training — Exercise 1 (simulated inbox)",
+  "emails": [
+    {
+      "id": "e-1018",
+      "thread_id": "t-maria",
+      "contact_id": "c-maria",
+      "from_name": "Maria Alvarez",
+      "from_email": "maria@brightpathco.com",
+      "date": "2026-06-18T09:12:00",
+      "unread": true,
+      "subject": "Re: Homepage draft 2 — a couple of thoughts",
+      "snippet": "Love where this is going. Two things on the hero section before we sign off…",
+      "body": "Hi! Love where this is going. Two things before we sign off on draft 2: (1) can the hero headline be a touch shorter, and (2) the testimonial block feels low-contrast on mobile. Could you send an updated version by Friday? Thanks!"
+    },
+    {
+      "id": "e-1009",
+      "thread_id": "t-maria",
+      "contact_id": "c-maria",
+      "from_name": "Maria Alvarez",
+      "from_email": "maria@brightpathco.com",
+      "date": "2026-06-15T16:40:00",
+      "unread": false,
+      "subject": "Homepage draft 2",
+      "snippet": "Thanks for sending draft 2 over — reviewing with the team today.",
+      "body": "Thanks for sending draft 2 over — reviewing with the team today, I'll get you notes shortly."
+    },
+    {
+      "id": "e-1021",
+      "thread_id": "t-tom",
+      "contact_id": "c-tom",
+      "from_name": "Tom Becker",
+      "from_email": "tom.becker@nardelli.com",
+      "date": "2026-06-18T11:02:00",
+      "unread": true,
+      "subject": "Following up after our call",
+      "snippet": "Really enjoyed our conversation. Could you put together a proposal for the scope we discussed?",
+      "body": "Really enjoyed our conversation Tuesday. Could you put together a proposal for the scope we discussed (the two landing pages + the email sequence)? No rush, but I'd like to bring it to our team meeting next week."
+    },
+    {
+      "id": "e-1004",
+      "thread_id": "t-tom",
+      "contact_id": "c-tom",
+      "from_name": "Tom Becker",
+      "from_email": "tom.becker@nardelli.com",
+      "date": "2026-06-15T13:20:00",
+      "unread": false,
+      "subject": "Thanks for the call",
+      "snippet": "Thanks for making time today — will loop back after I sync with my partner.",
+      "body": "Thanks for making time today — will loop back after I sync with my partner."
+    },
+    {
+      "id": "e-1015",
+      "thread_id": "t-priya",
+      "contact_id": "c-priya",
+      "from_name": "Priya Nair",
+      "from_email": "priya@lumenanalytics.com",
+      "date": "2026-06-16T08:05:00",
+      "unread": false,
+      "subject": "Your Lumen renewal quote (action needed by Jun 30)",
+      "snippet": "Attaching your renewal. Pricing holds through the end of the month.",
+      "body": "Hi — attaching your renewal quote for the analytics seats. Pricing holds through June 30; after that it moves to the new rate. Let me know if you'd like to keep all five seats or adjust."
+    },
+    {
+      "id": "e-0998",
+      "thread_id": "t-priya",
+      "contact_id": "c-priya",
+      "from_name": "Priya Nair",
+      "from_email": "priya@lumenanalytics.com",
+      "date": "2026-06-12T10:30:00",
+      "unread": false,
+      "subject": "Quick question about seats",
+      "snippet": "Are all five seats still active on your side?",
+      "body": "Quick one before I send the renewal — are all five seats still active on your side?"
+    },
+    {
+      "id": "e-1026",
+      "thread_id": "t-greg",
+      "contact_id": "c-greg",
+      "from_name": "Greg Olsen",
+      "from_email": "greg.olsen@meadowbrook.org",
+      "date": "2026-06-19T07:48:00",
+      "unread": true,
+      "subject": "Re: the export bug — still seeing it",
+      "snippet": "Tried again this morning and the CSV export still times out on large reports.",
+      "body": "Morning — tried again and the CSV export still times out on the large reports (the small ones are fine). Is there anything on my end I should change, or is it still being worked on? Thanks for your patience."
+    },
+    {
+      "id": "e-1024",
+      "thread_id": "t-sandra",
+      "contact_id": "c-sandra",
+      "from_name": "Sandra Kim",
+      "from_email": "sandra@kimcreative.co",
+      "date": "2026-06-17T15:30:00",
+      "unread": true,
+      "subject": "Co-marketing idea for Q3",
+      "snippet": "I have an idea for a joint webinar — want to grab 20 minutes next week?",
+      "body": "Hey! I have an idea for a joint webinar in Q3 — our audiences overlap nicely. Want to grab 20 minutes next week to talk it through? I'm pretty open Wed/Thu."
+    },
+    {
+      "id": "e-1027",
+      "thread_id": "t-dave",
+      "contact_id": "c-dave",
+      "from_name": "Dave Russo",
+      "from_email": "dave.russo@embarkfin.com",
+      "date": "2026-06-19T08:15:00",
+      "unread": true,
+      "subject": "Q3 numbers when you get a sec",
+      "snippet": "Can you send the Q3 marketing spend summary before Friday's review?",
+      "body": "Hey — can you send the Q3 marketing spend summary before Friday's review? Just the topline by channel is fine."
+    },
+    {
+      "id": "e-1013",
+      "thread_id": "t-news",
+      "contact_id": null,
+      "from_name": "The Marketing Brief",
+      "from_email": "noreply@marketingbrief.com",
+      "date": "2026-06-18T06:00:00",
+      "unread": false,
+      "subject": "Issue 142: The 'boring' channel that's quietly winning",
+      "snippet": "Plus: a 3-step teardown of a great onboarding email.",
+      "body": "This week: the channel everyone underrates, a teardown of a great onboarding email, and one chart on retention. (Newsletter — no action needed.)"
+    },
+    {
+      "id": "e-1011",
+      "thread_id": "t-receipt",
+      "contact_id": null,
+      "from_name": "Figma Billing",
+      "from_email": "billing@figma.com",
+      "date": "2026-06-17T02:11:00",
+      "unread": false,
+      "subject": "Your receipt from Figma",
+      "snippet": "Receipt for your monthly subscription.",
+      "body": "Thanks for your payment. Receipt for your monthly subscription is attached. (No action needed.)"
+    },
+    {
+      "id": "e-1029",
+      "thread_id": "t-cold",
+      "contact_id": null,
+      "from_name": "Alex Trent",
+      "from_email": "alex@growthpartners.io",
+      "date": "2026-06-19T05:40:00",
+      "unread": true,
+      "subject": "Partnership opportunity",
+      "snippet": "We help agencies like yours 10x pipeline — open to a quick chat?",
+      "body": "Hi there, we help agencies like yours 10x pipeline with our outbound system — open to a quick chat this week? (Cold outreach.)"
+    }
+  ]
+}

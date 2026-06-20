@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "haffner-training": {
+      "source": {
+        "source": "github",
+        "repo": "nick-haffner/haffner-tech_ai-workflow-training"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "ai-workflow-training@haffner-training": true
+  }
+}

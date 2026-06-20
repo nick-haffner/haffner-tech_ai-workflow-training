@@ -1,0 +1,13 @@
+{
+  "name": "haffner-training",
+  "owner": { "name": "Haffner Technologies" },
+  "description": "Haffner Tech AI Workflow Training.",
+  "plugins": [
+    {
+      "name": "ai-workflow-training",
+      "source": "./plugins/ai-workflow-training",
+      "description": "Guided AI Workflow Training: Claude Cowork exercises, guardrails, and walkthrough skills.",
+      "version": "0.1.0"
+    }
+  ]
+}

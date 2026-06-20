@@ -1,0 +1,77 @@
+{
+  "generated_for": "Haffner Tech AI Workflow Training — Exercise 1 (simulated CRM)",
+  "contacts": [
+    {
+      "id": "c-maria",
+      "name": "Maria Alvarez",
+      "email": "maria@brightpathco.com",
+      "company": "BrightPath Co",
+      "role": "Marketing Lead",
+      "relationship": "Active client",
+      "status": "In delivery",
+      "last_contact": "2026-06-18",
+      "open_item": "Send updated homepage (draft 3) by Friday",
+      "notes": "Website redesign, phase 2. We sent draft 2 on Jun 15; Maria is reviewing with her team. She tends to give crisp, batched feedback. Decision-maker on copy; defers visual calls to us. Friendly, fast email replies."
+    },
+    {
+      "id": "c-tom",
+      "name": "Tom Becker",
+      "email": "tom.becker@nardelli.com",
+      "company": "Nardelli & Sons",
+      "role": "Owner",
+      "relationship": "Prospect (warm)",
+      "status": "Proposal stage",
+      "last_contact": "2026-06-18",
+      "open_item": "Send proposal: 2 landing pages + email sequence",
+      "notes": "Discovery call on Jun 16 went well. Scope discussed: two landing pages and a 4-email welcome sequence. He brings decisions to a team meeting next week, so a clear one-page proposal works best. Price-sensitive but values speed."
+    },
+    {
+      "id": "c-priya",
+      "name": "Priya Nair",
+      "email": "priya@lumenanalytics.com",
+      "company": "Lumen Analytics",
+      "role": "Account Manager",
+      "relationship": "Vendor",
+      "status": "Renewal due",
+      "last_contact": "2026-06-16",
+      "open_item": "Decide on renewal (5 seats) before Jun 30",
+      "notes": "Provides our analytics tooling. Renewal quote arrived Jun 16; current rate holds until Jun 30. We currently pay for 5 seats but likely only use 3 actively — worth reviewing before renewing."
+    },
+    {
+      "id": "c-greg",
+      "name": "Greg Olsen",
+      "email": "greg.olsen@meadowbrook.org",
+      "company": "Meadowbrook Foundation",
+      "role": "Operations Manager",
+      "relationship": "Active client (support)",
+      "status": "Open issue",
+      "last_contact": "2026-06-19",
+      "open_item": "Reply re: CSV export timeout on large reports",
+      "notes": "Long-standing client on a support retainer. Reported a CSV export timeout on large reports; small exports work. Engineering is aware. Greg is patient and appreciates honest status updates over silence."
+    },
+    {
+      "id": "c-sandra",
+      "name": "Sandra Kim",
+      "email": "sandra@kimcreative.co",
+      "company": "Kim Creative",
+      "role": "Founder",
+      "relationship": "Referral partner",
+      "status": "Exploring collaboration",
+      "last_contact": "2026-06-17",
+      "open_item": "Schedule 20-min call (Wed/Thu) about a Q3 joint webinar",
+      "notes": "Sends us referrals a few times a year; we reciprocate. Proposing a co-marketing webinar in Q3. Audiences overlap. Worth 20 minutes — these have led to good leads before."
+    },
+    {
+      "id": "c-dave",
+      "name": "Dave Russo",
+      "email": "dave.russo@embarkfin.com",
+      "company": "Embark (internal)",
+      "role": "Colleague — Finance",
+      "relationship": "Internal",
+      "status": "Awaiting info from you",
+      "last_contact": "2026-06-19",
+      "open_item": "Send Q3 marketing spend topline by channel before Friday",
+      "notes": "Internal teammate prepping Friday's review. Just needs the Q3 marketing spend topline by channel — quick turnaround, low effort, high goodwill."
+    }
+  ]
+}
