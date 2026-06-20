@@ -2,6 +2,8 @@
   "name": "ai-workflow-training",
   "description": "Haffner Tech AI Workflow Training — guardrails and guided skills for the Claude Cowork exercises.",
   "version": "0.1.0",
-  "author": { "name": "Haffner Technologies" },
+  "author": {
+    "name": "Haffner Tech"
+  },
   "repository": "https://github.com/nick-haffner/haffner-tech_ai-workflow-training"
 }

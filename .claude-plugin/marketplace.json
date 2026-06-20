@@ -1,13 +1,21 @@
 {
-  "name": "haffner-training",
-  "owner": { "name": "Haffner Technologies" },
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "haffner-tech-training",
   "description": "Haffner Tech AI Workflow Training.",
+  "owner": {
+    "name": "Haffner Tech",
+    "email": "nick@haffner.tech"
+  },
   "plugins": [
     {
       "name": "ai-workflow-training",
-      "source": "./plugins/ai-workflow-training",
       "description": "Guided AI Workflow Training: Claude Cowork exercises, guardrails, and walkthrough skills.",
-      "version": "0.1.0"
+      "version": "0.1.0",
+      "author": {
+        "name": "Haffner Tech"
+      },
+      "source": "./plugins/ai-workflow-training",
+      "category": "productivity"
     }
   ]
 }
