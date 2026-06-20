@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "haffner-tech-training",
+  "name": "haffner-tech-ai-training",
   "description": "Haffner Tech AI Workflow Training.",
   "owner": {
     "name": "Haffner Tech",
@@ -19,7 +19,7 @@
         "url": "https://github.com/nick-haffner/haffner-tech_ai-workflow-training.git",
         "path": "plugins/ai-workflow-training",
         "ref": "main",
-        "sha": "4a87cc68a1167c70cf8da155c6eac27251583498"
+        "sha": "91e903bcadc5daec018be638afb751cc7313626d"
       },
       "category": "productivity"
     }

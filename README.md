@@ -1,86 +1,103 @@
 # AI Workflow Training — Haffner Tech
 
-A Claude Code **plugin** that sets you up to complete the Haffner Tech AI Workflow
-Training homework exercises. Adding it drops the training's commands and scaffolding
-straight into Claude Code, so you can learn by doing.
+A Claude plugin that loads the training's commands and guardrails into your AI environment,
+so you can learn by doing.
 
 ---
 
 ## Before you start
 
-You'll need these (you already have them):
+You'll need:
 
 - A **Claude** account (Pro or Max)
-- **Claude Code** installed on your computer
-- A **GitHub** account with access to this repository
+- **Claude Desktop** installed on your computer
+- The **repository files** on your computer (clone or ZIP — see below)
+
+See [`PREREQUISITES.md`](plugins/ai-workflow-training/PREREQUISITES.md) for a full list.
 
 ---
 
-## Add it as a plugin (about 2 minutes)
+## Install — Claude Cowork
 
-This repository ships its own configuration, so Claude Code sets the plugin up
-**for you** when you open it — there are no marketplace commands to memorize.
+Cowork is a tab inside Claude Desktop. This is the primary path for the training.
 
-**1. Clone this repository to your computer**
-
-```bash
-gh repo clone nick-haffner/haffner-tech_ai-workflow-training
-```
-
-or, with plain git:
+**1. Get the repository files**
 
 ```bash
 git clone https://github.com/nick-haffner/haffner-tech_ai-workflow-training.git
 ```
 
-**2. Open the folder in Claude Code**
+No git? Download the ZIP: green **Code** button on GitHub → **Download ZIP**, then unzip.
+
+**2. Add the marketplace**
+
+Open Claude Desktop → switch to the **Cowork** tab → open the **Customize** tab.
+
+Click **Add Marketplace** and paste:
+
+```
+https://github.com/nick-haffner/haffner-tech_ai-workflow-training
+```
+
+**3. Install the plugin**
+
+Find **ai-workflow-training** in the marketplace list and install it.
+
+**4. Confirm**
+
+Type `/` in Cowork — you should see the training commands.
+
+---
+
+## Install — Claude Code (terminal)
+
+The repository carries its own settings so the plugin installs automatically when you
+open the folder.
+
+**1. Clone and open**
 
 ```bash
+git clone https://github.com/nick-haffner/haffner-tech_ai-workflow-training.git
 cd haffner-tech_ai-workflow-training
 claude
 ```
 
-**3. Approve the prompts**
+**2. Approve the prompts**
 
-Because this project carries its own settings, Claude Code will ask you to confirm
-a few things the first time you open it. Approve each:
+Claude Code will ask you to confirm a few things the first time. Approve each:
 
 - **Trust this folder?** → **Yes**
-- **Add the `haffner-training` marketplace** (from this repo)? → **Yes**
+- **Add the `haffner-tech-ai-training` marketplace?** → **Yes**
 - **Enable the `ai-workflow-training` plugin?** → **Yes**
 
 You only do this once.
 
-**4. Confirm it installed**
+**3. Confirm**
 
-Type `/plugin` and open the **Installed** tab — you should see
-**ai-workflow-training** listed. Your training commands are now available; type `/`
-to see them.
+Type `/plugin` → **Installed** tab — you should see **ai-workflow-training** listed.
 
 ---
 
 ## Getting updates
 
-When new exercises are released, pull the latest from inside the repo folder and
-Claude Code picks up the changes:
-
 ```bash
 git pull
 ```
 
+Run this inside the repo folder whenever new exercises or fixes are released.
+Both Claude Code and Cowork pick up the changes automatically on next use.
+
 ---
 
-## Optional: add it the "manual" way
+## Optional: manual install (Claude Code)
 
-If you'd rather add it the same way you'd add any plugin (handy if you ever set one
-up for your company), you can skip the automatic prompts and do it by hand in
-Claude Code:
+If you prefer to skip the automatic prompts:
 
-```text
+```
 /plugin marketplace add nick-haffner/haffner-tech_ai-workflow-training
-/plugin install ai-workflow-training@haffner-training
+/plugin install ai-workflow-training@haffner-tech-ai-training
 ```
 
 ---
 
-Questions? Reach out to **Haffner Technologies**.
+Questions? Reach out to **Haffner Tech**.
