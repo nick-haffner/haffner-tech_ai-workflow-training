@@ -35,8 +35,8 @@ Open each exercise's `BRIEF.md` to begin.
 
 ## Helpful commands (after install)
 
-- `/ai-workflow-training:start-exercise-1` — start Exercise 1: verifies your setup, hands
-  you your contact data, and describes the end-state you're building toward.
+- `/ai-workflow-training:exercise-1` — start Exercise 1: assess your technical wall,
+  verify your setup, get your contact data, and see the end-state you're building toward.
 - `/ai-workflow-training:combine-projects` — a short lesson on combining two automations
   into one project; run it before Exercise 3.
 

@@ -80,7 +80,7 @@ Find **ai-workflow-training** in the marketplace list and install it.
 
 **Step 5 · Verify.**
 Type `/` in Cowork — the training commands should appear, including
-`/ai-workflow-training:setup-exercise-1` and `/ai-workflow-training:combine-projects`.
+`/ai-workflow-training:exercise-1` and `/ai-workflow-training:combine-projects`.
 → Confirm commands are visible.
 
 ---

@@ -15,9 +15,9 @@ data, storage, and output format are already set up for you.
 - `project-storage/` — where your process writes its output.
 
 ## Start here
-Run **`/ai-workflow-training:start-exercise-1`** — it verifies your setup, hands you your
-contact data, and describes the end state you're building toward. (It won't tell you *how*
-to build it — that's the exercise.)
+Run **`/ai-workflow-training:exercise-1`** — it has you assess your technical wall,
+verifies your setup, hands you your contact data, and describes the end state you're
+building toward. (It won't tell you *how* to build it — that's the exercise.)
 
 ## What to build (in Cowork)
 Design a process that, each run:

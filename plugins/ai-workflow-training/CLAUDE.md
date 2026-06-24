@@ -41,8 +41,9 @@ against the files there. No real email account is required for Exercise 1 — it
 
 ## Skills in this plugin
 
-- `/ai-workflow-training:start-exercise-1` — start Exercise 1: verify the setup (skills +
-  Inbox connector), hand the learner their CRM data, and describe the end state in full —
-  WITHOUT telling them how to build it.
+- `/ai-workflow-training:exercise-1` — start Exercise 1: have the learner assess their
+  technical wall (saved as an MD with the procedure), verify the setup (skills + Inbox
+  MCP), hand over their CRM data, and describe the end state in full — WITHOUT telling
+  them how to build it.
 - `/ai-workflow-training:combine-projects` — teach what it means to combine two
   automations into a single project (used before Exercise 3).

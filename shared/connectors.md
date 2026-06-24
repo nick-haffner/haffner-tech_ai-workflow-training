@@ -7,7 +7,7 @@ pointing Cowork at a folder on your computer so it can read/write the files ther
 - **Grant Cowork the folder** `exercises/01-inbox-digest/` (read-write).
 - That's it — the inbox and CRM are **simulated files** in that folder. **Do not**
   connect your real email for this exercise.
-- The walkthrough `/ai-workflow-training:setup-exercise-1` does this with you.
+- The walkthrough `/ai-workflow-training:exercise-1` does this with you.
 
 ## Exercise 2 — Morning briefing (real sources)
 You'll build this as a new project under `projects/`. You'll likely want:
