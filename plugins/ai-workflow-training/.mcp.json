@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "inbox": {
+      "type": "http",
+      "url": "https://haffner.tech/api/training/inbox/mcp"
+    }
+  }
+}
