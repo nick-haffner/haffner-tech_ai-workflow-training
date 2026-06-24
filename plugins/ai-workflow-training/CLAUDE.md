@@ -41,7 +41,8 @@ against the files there. No real email account is required for Exercise 1 — it
 
 ## Skills in this plugin
 
-- `/ai-workflow-training:setup-exercise-1` — walk the learner through granting Cowork
-  access to the Exercise 1 folder and confirming it can see the simulated data.
+- `/ai-workflow-training:start-exercise-1` — start Exercise 1: verify the setup (skills +
+  Inbox connector), hand the learner their CRM data, and describe the end state in full —
+  WITHOUT telling them how to build it.
 - `/ai-workflow-training:combine-projects` — teach what it means to combine two
   automations into a single project (used before Exercise 3).

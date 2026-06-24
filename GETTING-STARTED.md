@@ -35,8 +35,8 @@ Open each exercise's `BRIEF.md` to begin.
 
 ## Helpful commands (after install)
 
-- `/ai-workflow-training:setup-exercise-1` — get Exercise 1 set up in Cowork (grant the
-  folder, see the simulated data) with a step-by-step walkthrough.
+- `/ai-workflow-training:start-exercise-1` — start Exercise 1: verifies your setup, hands
+  you your contact data, and describes the end-state you're building toward.
 - `/ai-workflow-training:combine-projects` — a short lesson on combining two automations
   into one project; run it before Exercise 3.
 
